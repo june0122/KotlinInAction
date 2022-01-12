@@ -1,4 +1,5 @@
-package lambdas.api
+package lambdas.funinterface
+
 
 fun main() {
     val sample = JavaMethodSample()
